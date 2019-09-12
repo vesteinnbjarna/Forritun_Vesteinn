@@ -1,2 +1,3 @@
-print('Hrafn')
-print('HR')
+string = 'Forr itun'
+print (string.upper())
+print(string.split())
